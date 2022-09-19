@@ -1,0 +1,59 @@
+D:\QLBH\DAL\bin\Debug\DAL.exe.config
+D:\QLBH\DAL\bin\Debug\DAL.exe
+D:\QLBH\DAL\bin\Debug\DAL.pdb
+D:\QLBH\DAL\bin\Debug\DTO.exe
+D:\QLBH\DAL\bin\Debug\DTO.pdb
+D:\QLBH\DAL\bin\Debug\DTO.exe.config
+D:\QLBH\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBH\DAL\obj\Debug\DAL.exe
+D:\QLBH\DAL\obj\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\obj\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\obj\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\bin\Debug\DAL.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DAL\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\bin\Debug\DAL.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\obj\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DAL\obj\Debug\DAL.pdb
+D:\QLBH_DTDĐ\DAL\bin\Debug\DAL.exe.config
+D:\QLBH_DTDĐ\DAL\bin\Debug\DAL.exe
+D:\QLBH_DTDĐ\DAL\bin\Debug\DAL.pdb
+D:\QLBH_DTDĐ\DAL\bin\Debug\DTO.exe
+D:\QLBH_DTDĐ\DAL\bin\Debug\DTO.pdb
+D:\QLBH_DTDĐ\DAL\bin\Debug\DTO.exe.config
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.exe
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.pdb
+D:\QLBH_DTDĐ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DAL.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DAL.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DTO.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\bin\Debug\DTO.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,42 @@
+D:\QLBH\DTO\bin\Debug\DTO.exe.config
+D:\QLBH\DTO\bin\Debug\DTO.exe
+D:\QLBH\DTO\bin\Debug\DTO.pdb
+D:\QLBH\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\QLBH\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QLBH\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\QLBH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLBH\DTO\obj\Debug\DTO.exe
+D:\QLBH\DTO\obj\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\obj\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\obj\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\bin\Debug\DTO.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\DTO\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\bin\Debug\DTO.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\obj\Debug\DTO.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\obj\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\DTO\obj\Debug\DTO.pdb
+D:\QLBH_DTDĐ\DTO\bin\Debug\DTO.exe.config
+D:\QLBH_DTDĐ\DTO\bin\Debug\DTO.exe
+D:\QLBH_DTDĐ\DTO\bin\Debug\DTO.pdb
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.exe
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.pdb
+D:\QLBH_DTDĐ\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\bin\Debug\DTO.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\bin\Debug\DTO.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\DTO\obj\Debug\DTO.pdb

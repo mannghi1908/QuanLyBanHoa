@@ -1,0 +1,211 @@
+D:\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\QLBH\GUI\bin\Debug\GUI.exe
+D:\QLBH\GUI\bin\Debug\GUI.pdb
+D:\QLBH\GUI\obj\Debug\GUI.exe
+D:\QLBH\GUI\obj\Debug\GUI.pdb
+D:\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\QLBH\GUI\bin\Debug\BUS.exe
+D:\QLBH\GUI\bin\Debug\DTO.exe
+D:\QLBH\GUI\bin\Debug\DAL.exe
+D:\QLBH\GUI\bin\Debug\BUS.pdb
+D:\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\QLBH\GUI\bin\Debug\DTO.pdb
+D:\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\QLBH\GUI\bin\Debug\DAL.pdb
+D:\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\GUI.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\BUS.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\BUS.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N1\QLBH\GUI\obj\Debug\GUI.frmHoadon.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\GUI.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\BUS.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\BUS.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.frmHoadon.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\QLBH-18DTH1B\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\GUI.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\BUS.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\BUS.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmHoadon.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH1B\N2\QLBH-18DTH1B - N2\GUI\obj\Debug\GUI.frmINHOADON.resources
+D:\QLBH_DTDĐ\GUI\bin\Debug\GUI.exe.config
+D:\QLBH_DTDĐ\GUI\bin\Debug\GUI.exe
+D:\QLBH_DTDĐ\GUI\bin\Debug\GUI.pdb
+D:\QLBH_DTDĐ\GUI\bin\Debug\BUS.exe
+D:\QLBH_DTDĐ\GUI\bin\Debug\DTO.exe
+D:\QLBH_DTDĐ\GUI\bin\Debug\DAL.exe
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\stdole.dll
+D:\QLBH_DTDĐ\GUI\bin\Debug\BUS.pdb
+D:\QLBH_DTDĐ\GUI\bin\Debug\BUS.exe.config
+D:\QLBH_DTDĐ\GUI\bin\Debug\DTO.pdb
+D:\QLBH_DTDĐ\GUI\bin\Debug\DTO.exe.config
+D:\QLBH_DTDĐ\GUI\bin\Debug\DAL.pdb
+D:\QLBH_DTDĐ\GUI\bin\Debug\DAL.exe.config
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmHethong.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmHoadon.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmINHOADON.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.exe
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.pdb
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmMatHang.resources
+D:\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\GUI.exe.config
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\GUI.exe
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\GUI.pdb
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\BUS.exe
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DTO.exe
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DAL.exe
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\ShockwaveFlashObjects.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\stdole.dll
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\BUS.pdb
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\BUS.exe.config
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DTO.pdb
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DTO.exe.config
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DAL.pdb
+E:\ASP.NET\QLBH_DTDĐ\GUI\bin\Debug\DAL.exe.config
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmDangnhap.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmHethong.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmHoadon.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmINHOADON.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmKhachhang.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmMatHang.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.frmNhanVien.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.exe
+E:\ASP.NET\QLBH_DTDĐ\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\BUS.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DTO.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DAL.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\stdole.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\BUS.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DTO.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\DAL.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmHoadon.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmINHOADON.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmMatHang.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QLBH_BANHOA\GUI\obj\Debug\GUI.frmBCDSMoiNVReport.resources
